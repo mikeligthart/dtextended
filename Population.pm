@@ -7,7 +7,7 @@ use GPPopulation;
 
 @ISA = qw(GPPopulation);
 
-$SIZE = 100;
+$SIZE = 20;
 
 sub _init {
   my ($self, %p) = @_;
